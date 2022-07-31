@@ -1,0 +1,53 @@
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe.config
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\bin\Debug\FACTURATION.pdb
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.exe
+c:\users\user\documents\visual studio 2010\Projects\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.pdb
+D:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe.config
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.exe
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.pdb
+D:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe
+D:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.pdb
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csprojResolveAssemblyReference.cache
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Form1.resources
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Properties.Resources.resources
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csproj.GenerateResource.Cache
+H:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe.config
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.exe
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.pdb
+H:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe
+H:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.pdb
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Form1.resources
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Properties.Resources.resources
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csproj.GenerateResource.Cache
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Commande___.resources
+H:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csprojResolveAssemblyReference.cache
+G:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe.config
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.exe
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.pdb
+G:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe
+G:\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.pdb
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csprojResolveAssemblyReference.cache
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Commande___.resources
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Form1.resources
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.les_Clients.resources
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Properties.Resources.resources
+G:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csproj.GenerateResource.Cache
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Commande___.resources
+D:\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.les_Clients.resources
+G:\les Donnée\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe.config
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.exe
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.pdb
+G:\les Donnée\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.exe
+G:\les Donnée\projet\FACTURATION\FACTURATION\bin\Debug\FACTURATION.pdb
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csprojResolveAssemblyReference.cache
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Commande___.resources
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Form1.resources
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.les_Clients.resources
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.Properties.Resources.resources
+G:\les Donnée\projet\FACTURATION\FACTURATION\obj\x86\Debug\FACTURATION.csproj.GenerateResource.Cache
